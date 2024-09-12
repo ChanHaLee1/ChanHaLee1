@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is ChanHaLee. Nice to meet you!
+## I am 2nd grade of computer science and engineering in Seoultech national university.
 
 <!--
 **ChanHaLee1/ChanHaLee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
